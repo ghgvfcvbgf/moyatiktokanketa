@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TikTokAnketa</title>
+
+<body>
+<h1>SHOPA</h1>
+</body>
+
+
+</head>
+</html>
